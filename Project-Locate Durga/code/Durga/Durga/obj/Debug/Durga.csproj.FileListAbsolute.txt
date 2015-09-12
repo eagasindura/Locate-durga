@@ -1,0 +1,5 @@
+C:\Users\omsairam\Documents\Visual Studio 2012\Projects\Durga\Durga\bin\Durga.dll
+C:\Users\omsairam\Documents\Visual Studio 2012\Projects\Durga\Durga\bin\Durga.pdb
+C:\Users\omsairam\Documents\Visual Studio 2012\Projects\Durga\Durga\obj\Debug\Durga.csprojResolveAssemblyReference.cache
+C:\Users\omsairam\Documents\Visual Studio 2012\Projects\Durga\Durga\obj\Debug\Durga.dll
+C:\Users\omsairam\Documents\Visual Studio 2012\Projects\Durga\Durga\obj\Debug\Durga.pdb
